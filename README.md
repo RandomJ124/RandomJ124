@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RandomJ124
+- 👋 Hi, I’m @Ze Ray
 - 👀 I’m interested in programming and robotics
 - 🌱 I’m currently learning python programming
 
